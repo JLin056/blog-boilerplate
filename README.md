@@ -1,1 +1,8 @@
-# blog-boilerplate
+# [北中 1 組] 2025 體驗營 Git 團隊任務
+團隊成員：
+- Kath
+- 阿莫
+- 7lun
+- Ariel
+- 蛋白
+- 蛋黃
